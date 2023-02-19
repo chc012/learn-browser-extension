@@ -1,0 +1,1 @@
+Create a popup display when clicked. See https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/
