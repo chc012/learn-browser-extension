@@ -1,0 +1,1 @@
+Here is an extension made by chatGPT that turns a webpage background to red.
